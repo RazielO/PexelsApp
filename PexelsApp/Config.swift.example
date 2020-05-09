@@ -6,5 +6,5 @@
 //  Copyright © 2020 Raziel. All rights reserved.
 //
 static class Config {
-    static let api_key = "563492ad6f917000010000019e67bc4a09a5459faf457b4c07910e51"
+    static let api_key = "API_KEY"
 }

@@ -130,4 +130,4 @@ iOSInjectionProject/
 
 # End of https://www.gitignore.io/api/xcode,macos,swift
 
-PexelsApp/Config.swift
+./PexelsApp/Config.swift
