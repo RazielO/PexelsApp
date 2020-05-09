@@ -1,0 +1,10 @@
+//
+//  Config.swift
+//  PexelsApp
+//
+//  Created by Raziel on 5/8/20.
+//  Copyright © 2020 Raziel. All rights reserved.
+//
+static class Config {
+    static let api_key = "563492ad6f917000010000019e67bc4a09a5459faf457b4c07910e51"
+}
